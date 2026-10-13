@@ -28,8 +28,6 @@ A cryptocurrency portfolio dashboard that simulates tax-loss harvesting while pr
 
 **Tech Stack:** React.js • TypeScript • Vite • Recharts • Framer Motion • CSS
 # 🏆 Certifications
-- ☁️ AWS Certified Cloud Practitioner
-- 🤖 Oracle Cloud Infrastructure AI Foundations Associate
 - 🥈 NPTEL – The Joy of Computing using Python (Silver)
 
 # 💻 Coding Profiles
